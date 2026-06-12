@@ -1,6 +1,6 @@
 # AS Music Theory
 
-[AS Music Theory](https://www.asmusictheory.com) is a free, interactive website for learning music theory. It combines clear, structured lessons with interactive examples and playable instruments, so you can see, hear, and play every concept - from the fundamentals of notes, intervals, scales and chords through to more advanced ideas.
+[AS Music Theory](https://www.asmusictheory.com) (<https://www.asmusictheory.com>) is a free, interactive website for learning music theory. It combines clear, structured lessons with interactive examples and playable instruments, so you can see, hear, and play every concept - from the fundamentals of notes, intervals, scales and chords through to more advanced ideas.
 
 You can play along using your computer keyboard or a MIDI controller, and everything runs right in your browser (Chrome, Edge, Safari, or Firefox recommended).
 
